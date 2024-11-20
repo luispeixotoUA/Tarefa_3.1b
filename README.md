@@ -1,6 +1,10 @@
 # Tarefa_3.1b
 ## Gestão do Animalec
 
+## Link GitHub
+https://github.com/luispeixotoUA/Tarefa_3.1b
+
+
 ## Funcionalidades
 - **Navegação Intuitiva**: Um menu de navegação que se adapta a dispositivos móveis.
 - **Gestão de Especialistas**: Permite adicionar, editar e visualizar especialistas.
